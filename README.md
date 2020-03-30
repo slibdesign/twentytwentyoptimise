@@ -6,7 +6,7 @@
 
 2. Login to your WordPress dashboard
 
-3. Go to plugins and upload the the .zip file (Plugins >> Add New)
+3. Go to plugins and upload the the .zip file (Plugins >> Add New >> Upload Plugin)
 
 4. Go to Settings >> Twenty Twenty Optimise
 
