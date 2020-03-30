@@ -17,13 +17,28 @@ require("inc/optimise.php");
 
 function twenty_twenty_optimise_options_page()
 {
+	$theme= wp_get_theme();
+
+	if($theme->Name != "Twenty Twenty")
+	{ 
+		?>
+		<h2>Twenty Twenty Theme Not Found</h2>
+		<p>It looks like you are not using the default Twenty Twenty theme. This plugin will not work unless the Twenty Twenty theme is active. To use this plugin ensure the Twenty Twenty theme is active under Themes >> Apperances.</p>
+		<?php
+	}
+	else
+	{
 ?>
 
 <div>
 
 	<h2>Twenty Twenty Optimise Settings</h2>
 	<p>Make your <a href="https://en-gb.wordpress.org/themes/twentytwenty/" target="_blank">TwentyTwenty WordPress theme</a> run faster by turning on these settings. Please note that this plugin only works with an active TwentyTwenty parent theme.</p>
-	<p>This plugin was used to build <a href="https://www.wpspeedupoptimisation.com/" target="_blank">one of the fastest WordPress websites in the World</a>. Visit the website to follow all the speed optimisation steps for yourself. Plugin coded by <a href="https://www.slibdesign.com" target="_blank">"Mr WordPress" - slibdesign.com</a></p>
+	<p>This plugin was used to build <a href="https://www.wpspeedupoptimisation.com/?ref=TwentyTwentyOptimisePlugin" target="_blank">one of the fastest WordPress websites in the World</a>. Visit the website to follow all the speed optimisation steps for yourself. Plugin coded by <a href="https://www.slibdesign.com" target="_blank">"Mr WordPress" - slibdesign.com</a></p>
+	
+	<h3>More By The Author</h3>
+	<p>Speed up your WordPress website with faster web hostingh <a href="https://shareasale.com/r.cfm?b=394686&u=1897845&m=41388&urllink=&afftrack=">WP Engine - Homepage</a> [affiliate link]</p>
+	<p>Browse the largest WordPress child theme library on the web <a href="https://www.childthemewp.com/?ref=twentytwentyoptimise" target="_blank">visit website</a>.</p>
 	
 	<h2>Speed Settings:</h2>
 	<form method="post" action="options.php">
@@ -134,5 +149,6 @@ function twenty_twenty_optimise_options_page()
 </div>
 
 <?php
+	}
 } 
 ?>
