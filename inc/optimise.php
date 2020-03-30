@@ -141,14 +141,13 @@ function optimise_speed_theme()
 		add_action('get_header', 'buffer_start');
 		add_action('wp_footer', 'buffer_end');
 	}
-	
-	
+
 	/* Combine CSS */
 	if(get_option('tto_12') == "Yes")
 	{
 		function twentynineteen_remove_scripts() 
 		{
-			$plugin_url = plugins_url() . "/twentytwentyoptimise/";
+			$plugin_url = plugin_dir_url( __FILE__ );
 
 			wp_dequeue_style( 'wp-block-library' );
 			wp_dequeue_style( 'wp-block-library-theme' );
