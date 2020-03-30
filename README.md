@@ -1,16 +1,22 @@
 # Twenty Twenty Optimise Plugin
 
-## Stesps
+## Installation Steps
 
-1. Download the code
+1. Download the code .zip from here
 
 2. Login to your WordPress dashboard
 
-3. Go to plugins and uploda the the .zip file (Plugins >> Add New)
+3. Go to plugins and upload the the .zip file (Plugins >> Add New)
 
 4. Go to Settings >> Twenty Twenty Optimise
 
-5. Here you can turn on the speed enhancing features
+5. Tick the options to turn on the speed enhancing features
+
+## Plugin Settings
+
+The plugin allows you to select which speed enhancing features you would like to turn on or off.
+
+![Image description](link-to-image)
 
 ## About
 
@@ -18,11 +24,9 @@ In March 2020 I built a WordPress website that loaded in 101ms.
 
 I followed these [four steps](https://www.wpspeedupoptimisation.com) and used this plugin.
 
-Made by Ben Llewellyn AKA "Mr WordPress".
+Made by [Ben Llewellyn AKA "Mr WordPress](https://www.slibdesign.com).
 
-## Settings
 
-The plugin allows you to select which speed enhancing features you would like to turn on or off
 
 
 
