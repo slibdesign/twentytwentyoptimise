@@ -37,7 +37,7 @@ function twenty_twenty_optimise_options_page()
 	<p>This plugin was used to build <a href="https://www.wpspeedupoptimisation.com/?ref=TwentyTwentyOptimisePlugin" target="_blank">one of the fastest WordPress websites in the World</a>. Visit the website to follow all the speed optimisation steps for yourself. Plugin coded by <a href="https://www.slibdesign.com" target="_blank">"Mr WordPress" - slibdesign.com</a></p>
 	
 	<h3>More By The Author</h3>
-	<p>Speed up your WordPress website with faster web hostingh <a href="https://shareasale.com/r.cfm?b=394686&u=1897845&m=41388&urllink=&afftrack=">WP Engine - Homepage</a> [affiliate link]</p>
+	<p>Speed up your WordPress website with fast web hosting <a href="https://shareasale.com/r.cfm?b=394686&u=1897845&m=41388&urllink=&afftrack=">WP Engine - Homepage</a> [affiliate link]</p>
 	<p>Browse the largest WordPress child theme library on the web <a href="https://www.childthemewp.com/?ref=twentytwentyoptimise" target="_blank">visit website</a>.</p>
 	
 	<h2>Speed Settings:</h2>
