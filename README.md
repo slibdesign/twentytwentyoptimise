@@ -16,7 +16,7 @@
 
 The plugin allows you to select which speed enhancing features you would like to turn on or off.
 
-![Image description](link-to-image)
+![Settings Preview In WordPress Dashboard](https://github.com/slibdesign/twentytwentyoptimise/blob/master/settings_page_preview.png)
 
 ## About
 
