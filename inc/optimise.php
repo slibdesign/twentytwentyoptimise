@@ -148,7 +148,7 @@ if(!is_admin())
 				/* Twenty Twenty One Theme Components Optimisation */
 				function twentytwentyone_remove_scripts() 
 				{
-					$plugin_url = plugins_url() . "/twentytwentyoptimise/files/twentytwentyone/";
+					$plugin_url = plugins_url() . "/twentytwentyoptimise-master/files/twentytwentyone/";
 
 					if(get_option('tto_12') == "Yes")
 					{
@@ -201,7 +201,7 @@ if(!is_admin())
 					/* Twenty Twenty Theme Components Optimisation */
 					function twentytwenty_remove_scripts() 
 					{
-						$plugin_url = plugins_url() . "/twentytwentyoptimise/files/twentytwenty/";
+						$plugin_url = plugins_url() . "/twentytwentyoptimise-master/files/twentytwenty/";
 
 						wp_dequeue_style( 'wp-block-library' );
 						wp_dequeue_style( 'wp-block-library-theme' );
