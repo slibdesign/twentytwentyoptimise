@@ -2,7 +2,7 @@
 
 ## Installation Steps
 
-1. Download the code .zip from here
+1. Download the code .zip from here test
 
 2. Login to your WordPress dashboard
 
