@@ -9,9 +9,8 @@ Search engines rank websites that are fast better and user experience is improve
 Make your Twenty Twenty or Twenty Twenty-One WordPress theme website run faster using this plugin.
 
 ## Themes Supported
-
-Twenty Twenty-One WordPress parent theme
-Twenty Twenty WordPress parent theme
+* Twenty Twenty-One WordPress parent theme
+* Twenty Twenty WordPress parent theme
 
 ## Installation Guide
 1. Setup [WP Engine](https://wpengine.com) web hosting to host my website
