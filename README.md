@@ -8,6 +8,13 @@ Search engines rank websites that are fast better and user experience is improve
 
 Make your Twenty Twenty or Twenty Twenty-One WordPress theme website run faster using this plugin.
 
+## Result
+### Twenty Twenty-One
+Fastest Load Time: 0.078s
+
+### Twenty Twenty
+Fastest Load Time: 0.166s
+
 ## Themes Supported
 * [Twenty Twenty-One WordPress parent theme](https://en-gb.wordpress.org/themes/twentytwentyone/)
 * [Twenty Twenty WordPress parent theme](https://en-gb.wordpress.org/themes/twentytwenty/)
