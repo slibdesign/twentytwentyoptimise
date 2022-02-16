@@ -26,7 +26,7 @@ Make your Twenty Twenty, Twenty Twenty-One and Twenty Twenty-Two WordPress theme
 The plugin disables default WordPress features. This may have an adverse impact on your website. Check your website thoroughly once the plugin is activated.
 
 ## Author
-[Ben Llewellyn](https://www.slibdesign.com) plugin updated 18/01/2022.
+[Ben Llewellyn](https://www.slibdesign.com) plugin updated 16/02/2022.
 
 
 
