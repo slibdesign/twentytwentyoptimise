@@ -1,7 +1,7 @@
 # Twenty Twenty Optimise Plugin
 
 ## Aim
-An opensource project which improves the speed of the three most popular WordPress themes
+An opensource project which improves the speed of the three most popular WordPress themes.
 
 [https://wpspeedupoptimisation.com](https://wpspeedupoptimisation.com)
 
