@@ -25,6 +25,7 @@ function twenty_twenty_optimise_register_settings()
 	register_setting('twenty_twenty_optimise_options_group', 'tto_15', 'tto_callback');
 	register_setting('twenty_twenty_optimise_options_group', 'tto_16', 'tto_callback');	
 	register_setting('twenty_twenty_optimise_options_group', 'tto_17', 'tto_callback');
+	register_setting('twenty_twenty_optimise_options_group', 'tto_18', 'tto_callback');
 	register_setting('twenty_twenty_optimise_options_group', 'tto_19', 'tto_callback');
 	register_setting('twenty_twenty_optimise_options_group', 'tto_20', 'tto_callback');
 }
