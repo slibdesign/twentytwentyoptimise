@@ -12,6 +12,7 @@
 if(!defined('ABSPATH'))
 {
     exit;
+    //change
 }
 
 require_once(WP_PLUGIN_DIR. "/twentytwentyoptimise-master/inc/settings.php");
