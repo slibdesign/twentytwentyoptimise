@@ -6,14 +6,14 @@ A WordPress plugin to improve the speed of the three most popular WordPress them
 
 ## Purpose
 Site speed is now a ranking factor in Google’s algorithm.
-[https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708](https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708)
+[Google Now Counts Site Speed As Ranking Factor - SEL, Matt McGee on April 9, 2010 at 2:00 pm](https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708)
 
 This plugin improves the page speed of the three most popular WordPress themes.
 
 ## Themes Supported
-- [https://en-gb.wordpress.org/themes/twentytwentyone/] (Twenty Twenty-Two WordPress parent theme)
-- [https://en-gb.wordpress.org/themes/twentytwentytwo/] (Twenty Twenty-One WordPress parent theme)
-- [https://en-gb.wordpress.org/themes/twentytwenty/] (Twenty Twenty WordPress parent theme)
+- [Twenty Twenty-Two WordPress parent theme](https://en-gb.wordpress.org/themes/twentytwentyone/)
+- [Twenty Twenty-One WordPress parent theme](https://en-gb.wordpress.org/themes/twentytwentytwo/)
+- [Twenty Twenty WordPress parent theme](https://en-gb.wordpress.org/themes/twentytwenty/)
 
 *Please note that this plugin does not work with a child theme.*
 
