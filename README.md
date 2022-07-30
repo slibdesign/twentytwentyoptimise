@@ -1,36 +1,33 @@
 # Twenty Twenty Optimise Plugin
+A WordPress plugin to improve the speed of the three most popular WordPress themes.
 
-## Aim
-An opensource project which improves the speed of the three most popular WordPress themes.
-
+## Demo
 [https://wpspeedupoptimisation.com](https://wpspeedupoptimisation.com)
 
 ## Purpose
-Search engines rank websites that are faster better and user experience is improved if users can access more content quickly.
+Site speed is now a ranking factor in Google’s algorithm.
+[https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708](https://searchengineland.com/google-now-counts-site-speed-as-ranking-factor-39708)
 
-Make your Twenty Twenty, Twenty Twenty-One and Twenty Twenty-Two WordPress theme website run faster using this plugin.
+This plugin improves the page speed of the three most popular WordPress themes.
 
 ## Themes Supported
-* Twenty Twenty-Two WordPress parent theme
-* Twenty Twenty-One WordPress parent theme
-* Twenty Twenty WordPress parent theme
+- [https://en-gb.wordpress.org/themes/twentytwentyone/](Twenty Twenty-Two WordPress parent theme)
+- [https://en-gb.wordpress.org/themes/twentytwentytwo/](Twenty Twenty-One WordPress parent theme)
+- [https://en-gb.wordpress.org/themes/twentytwenty/](Twenty Twenty WordPress parent theme)
 
-## Installation Guide
-1. Setup [WP Engine](https://wpengine.com) web hosting to host my website
-2. Setup [DNS Made Easy](https://dnsmadeeasy.com) premium domain name service to manage my domain name
-3. Activated the [Twenty Twenty-One WordPress theme](https://en-gb.wordpress.org/themes/twentytwentyone/) in my WordPress dashboard
-4. Uploaded the Twenty Twenty Optimise WordPress plugin and activated the plugin features
+*Please note that this plugin does not work with a child theme.*
+
+## Suggested Steps
+1. Setup [WP Engine](https://wpengine.com) web hosting to host your website
+2. Setup [DNS Made Easy](https://dnsmadeeasy.com) premium domain name servers to manage your domain name lookup requests
+3. Activate the [Twenty Twenty-One WordPress theme](https://en-gb.wordpress.org/themes/twentytwentyone/) in your WordPress website dashboard
+4. Download and upload the Twenty Twenty Optimise WordPress Plugin and activate the plugin features
 
 ## Preview
-![Settings Preview In WordPress Dashboard](https://github.com/slibdesign/twentytwentyoptimise/blob/master/screenshot/twentytwentyoptimisewppluginscreenshot.png)
+![Plugin Screenshot](https://github.com/slibdesign/twentytwentyoptimise/blob/master/screenshot/twentytwentyoptimisewppluginscreenshot.png)
 
 ## Important
-The plugin disables default WordPress features. This may have an adverse impact on your website. Check your website thoroughly once the plugin is activated.
+This plugin disables default WordPress features. This may have an adverse impact on your website and stop certain features from working. Test your website thoroughly after installing the plugin.
 
 ## Author
-[Ben Llewellyn](https://www.slibdesign.com) plugin updated 16/02/2022.
-
-
-
-
-
+[Ben Llewellyn](https://www.slibdesign.com)
