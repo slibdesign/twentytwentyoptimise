@@ -11,9 +11,9 @@ Site speed is now a ranking factor in Google’s algorithm.
 This plugin improves the page speed of the three most popular WordPress themes.
 
 ## Themes Supported
-- [https://en-gb.wordpress.org/themes/twentytwentyone/](Twenty Twenty-Two WordPress parent theme)
-- [https://en-gb.wordpress.org/themes/twentytwentytwo/](Twenty Twenty-One WordPress parent theme)
-- [https://en-gb.wordpress.org/themes/twentytwenty/](Twenty Twenty WordPress parent theme)
+- [https://en-gb.wordpress.org/themes/twentytwentyone/] (Twenty Twenty-Two WordPress parent theme)
+- [https://en-gb.wordpress.org/themes/twentytwentytwo/] (Twenty Twenty-One WordPress parent theme)
+- [https://en-gb.wordpress.org/themes/twentytwenty/] (Twenty Twenty WordPress parent theme)
 
 *Please note that this plugin does not work with a child theme.*
 
