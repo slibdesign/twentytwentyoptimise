@@ -12,7 +12,7 @@
 * [Twenty Seventeen](https://en-gb.wordpress.org/themes/twentyseventeen/)
 * [Twenty Sixteen](https://en-gb.wordpress.org/themes/twentysixteen/)
 
-_The plugin will only work with a parent theme and it will not work with a child theme_
+_The plugin will only work with a parent theme and it will not work with a child theme._
 
 ### Installation Guide
 1. Setup [WP Engine](https://wpengine.com) web hosting for a WordPress website
@@ -33,7 +33,7 @@ _The plugin will only work with a parent theme and it will not work with a child
 
 **Test #3** Plugin not installed, generic hosting provider, standard nameservers [http://www.wpstandardspeed.com](http://www.wpstandardspeed.com)
 
-__The lowest score for Desktop or Mobile Google Page Speed Insights score is recorded in the table below__
+__The lowest score for Desktop or Mobile Google Page Speed Insights score is recorded in the table below.__
 
 ##### Twenty Twenty Three
 
