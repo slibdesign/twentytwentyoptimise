@@ -28,7 +28,9 @@ _The plugin will only work with a parent theme and it will not work with a child
 #### Test Parameters
 
 **Test #1** Plugin installed on [https://wpspeedupoptimisation.com](https://wpspeedupoptimisation.com)
+
 **Test #2** Plugin not installed on [https://wpspeedupoptimisation.com](https://wpspeedupoptimisation.com)
+
 **Test #3** Plugin not installed, generic hosting provider, standard nameservers [http://www.wpstandardspeed.com](http://www.wpstandardspeed.com)
 
 __The lowest score for Desktop or Mobile Google Page Speed Insights score is recorded in the table below__
