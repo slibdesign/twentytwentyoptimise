@@ -39,9 +39,9 @@ __The lowest score for Desktop or Mobile Google Page Speed Insights score is rec
 
 Test #1  | Test #2 | Test #3 | Max. Improvement
 ----------------- | -------------------- | ----------------------- | -----------------------
-100/100 Page Speed Insights | 100/100 Page Speed Insights | 91/100 Page Speed Insights | :heavy_check_mark: 9%
-73 ms Pingdom | 127 ms Pingdom | 429 ms Pingdom | :heavy_check_mark: 314 ms
-139 ms GTMetrix | 156ms GTMetrix | 495 ms GTMetrix | :heavy_check_mark: 356 ms
+[100/100 Page Speed Insights](https://wpspeedupoptimisation.com/performance-pngs/2023/google-mobile.png) | [100/100 Page Speed Insights](https://wpspeedupoptimisation.com/performance-pngs/2023/vanilla/google-mobile.png) | [91/100 Page Speed Insights](https://wpspeedupoptimisation.com/performance-pngs/2023/standard/google-mobile.png) | :heavy_check_mark: 9%
+[73 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2023/pingdom.png) | [127 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2023/vanilla/pingdom.png) | [429 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2023/standard/pingdom.png) | :heavy_check_mark: 314 ms
+[139 ms GTMetrix](https://wpspeedupoptimisation.com/performance-pngs/2023/gtmetrix.png) | [156ms GTMetrix](https://wpspeedupoptimisation.com/performance-pngs/2023/vanilla/gtmetrix.png) | 495 ms GTMetrix | :heavy_check_mark: 356 ms
 
 ##### Twenty Twenty Two
 
