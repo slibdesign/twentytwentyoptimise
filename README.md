@@ -3,7 +3,7 @@
 ## Description
 :rainbow: A WordPress plugin to improve the page load speed of the seven most popular WordPress themes.
 
-## Themes Supported / ↑ Improvements
+## Themes Supported = ↑ Improvements
 * [Twenty Twenty-Three](https://en-gb.wordpress.org/themes/twentytwentythree/) page load 73ms = ↑314ms
 * [Twenty Twenty-Two](https://en-gb.wordpress.org/themes/twentytwentytwo/) page load 142ms = ↑308ms
 * [Twenty Twenty-One](https://en-gb.wordpress.org/themes/twentytwentyone/) page load 132ms = ↑ 328ms
