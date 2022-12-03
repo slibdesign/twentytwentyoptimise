@@ -88,14 +88,7 @@ Test #1 | Test #2 | Test #3 | Max. Improvement
 [88 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2016/pingdom.png) | [100 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2016/vanilla/pingdom.png)  | [517 ms Pingdom](https://wpspeedupoptimisation.com/performance-pngs/2016/standard/pingdom.png) | :heavy_check_mark: 429 ms
 
 #### Trounbleshooting
-_Occasionally, a WordPress Plugin may not work as expected. 
-This plugin disables default WordPress features to improve page load speed.
-Always take a backup of your WordPress website before making changes_
+_Occasionally, a WordPress Plugin may not work as expected. This plugin disables default WordPress features to improve page load speed. Always take a backup of your WordPress website before making changes._
 
 #### Last Updated
 [Ben Llewellyn](https://www.slibdesign.com) updated the plugin to WordPress version 6.1.1.
-
-
-
-
-
