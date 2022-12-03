@@ -3,14 +3,14 @@
 ## Description
 :rainbow: A WordPress plugin to improve the page load speed of the seven most popular WordPress themes.
 
-## Themes Supported
-* [Twenty Twenty-Three](https://en-gb.wordpress.org/themes/twentytwentythree/) page load 73ms = ↑314ms improvement
-* [Twenty Twenty-Two](https://en-gb.wordpress.org/themes/twentytwentytwo/) page load 142ms = ↑308ms improvement
-* [Twenty Twenty-One](https://en-gb.wordpress.org/themes/twentytwentyone/) page load 132ms = ↑ 328ms improvement
-* [Twenty Twenty](https://en-gb.wordpress.org/themes/twentytwenty/) page load 142ms = ↑254ms improvement
-* [Twenty Nineteen](https://en-gb.wordpress.org/themes/twentynineteen/) page load 94ms = ↑287ms improvement
-* [Twenty Seventeen](https://en-gb.wordpress.org/themes/twentyseventeen/) page load 86ms = ↑345ms improvement
-* [Twenty Sixteen](https://en-gb.wordpress.org/themes/twentysixteen/) page load 88ms = ↑429ms improvement
+## Themes Supported / ↑ Improvements
+* [Twenty Twenty-Three](https://en-gb.wordpress.org/themes/twentytwentythree/) page load 73ms = ↑314ms
+* [Twenty Twenty-Two](https://en-gb.wordpress.org/themes/twentytwentytwo/) page load 142ms = ↑308ms
+* [Twenty Twenty-One](https://en-gb.wordpress.org/themes/twentytwentyone/) page load 132ms = ↑ 328ms
+* [Twenty Twenty](https://en-gb.wordpress.org/themes/twentytwenty/) page load 142ms = ↑254ms
+* [Twenty Nineteen](https://en-gb.wordpress.org/themes/twentynineteen/) page load 94ms = ↑287ms
+* [Twenty Seventeen](https://en-gb.wordpress.org/themes/twentyseventeen/) page load 86ms = ↑345ms
+* [Twenty Sixteen](https://en-gb.wordpress.org/themes/twentysixteen/) page load 88ms = ↑429ms
 
 _The plugin will only work with a parent theme and it will not work with a child theme._
 
