@@ -4,13 +4,13 @@
 :rainbow: A WordPress plugin to improve the page load speed of the seven most popular WordPress themes.
 
 ## Themes Supported
-* [Twenty Twenty-Three](https://en-gb.wordpress.org/themes/twentytwentythree/)
-* [Twenty Twenty-Two](https://en-gb.wordpress.org/themes/twentytwentytwo/)
-* [Twenty Twenty-One](https://en-gb.wordpress.org/themes/twentytwentyone/)
-* [Twenty Twenty](https://en-gb.wordpress.org/themes/twentytwenty/)
-* [Twenty Nineteen](https://en-gb.wordpress.org/themes/twentynineteen/)
-* [Twenty Seventeen](https://en-gb.wordpress.org/themes/twentyseventeen/)
-* [Twenty Sixteen](https://en-gb.wordpress.org/themes/twentysixteen/)
+* [Twenty Twenty-Three](https://en-gb.wordpress.org/themes/twentytwentythree/) page load 73ms = ↑314ms improvement
+* [Twenty Twenty-Two](https://en-gb.wordpress.org/themes/twentytwentytwo/) page load 142ms = ↑308ms improvement
+* [Twenty Twenty-One](https://en-gb.wordpress.org/themes/twentytwentyone/) page load 132ms = ↑ 328ms improvement
+* [Twenty Twenty](https://en-gb.wordpress.org/themes/twentytwenty/) page load 142ms = ↑254ms improvement
+* [Twenty Nineteen](https://en-gb.wordpress.org/themes/twentynineteen/) page load 94ms = ↑287ms improvement
+* [Twenty Seventeen](https://en-gb.wordpress.org/themes/twentyseventeen/) page load 86ms = ↑345ms improvement
+* [Twenty Sixteen](https://en-gb.wordpress.org/themes/twentysixteen/) page load 88ms = ↑429ms improvement
 
 _The plugin will only work with a parent theme and it will not work with a child theme._
 
@@ -25,7 +25,7 @@ _The plugin will only work with a parent theme and it will not work with a child
 #### Dashboard Settings Preview
 ![Settings Preview In WordPress Dashboard](https://github.com/slibdesign/twentytwentyoptimise/blob/master/screenshot/twentytwentyoptimisewppluginscreenshot.png)
 
-#### Test Parameters
+### Tests
 
 **Test #1** Plugin installed on [https://wpspeedupoptimisation.com](https://wpspeedupoptimisation.com)
 
@@ -33,7 +33,9 @@ _The plugin will only work with a parent theme and it will not work with a child
 
 **Test #3** Plugin not installed, generic hosting provider, standard nameservers [http://www.wpstandardspeed.com](http://www.wpstandardspeed.com)
 
-__The lowest score for Desktop or Mobile Google Page Speed Insights score is recorded in the table below.__
+*The lowest score for Desktop or Mobile Google Page Speed Insights score is recorded in the table below.*
+
+### Results
 
 ##### Twenty Twenty Three
 
